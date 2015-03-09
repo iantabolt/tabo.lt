@@ -9,22 +9,24 @@
 .btn-social{
   color: white;
   opacity:0.9;
+  width:40px;
+  height:40px;
 }
 .btn-social:hover {
   color: white;
     opacity:1;
 }
 .btn-facebook {
-background-color: #3b5998;
-opacity:0.9;
+  background-color: #3b5998;
+  opacity:0.9;
 }
 .btn-twitter {
-background-color: #00aced;
-opacity:0.9;
+  background-color: #00aced;
+  opacity:0.9;
 }
 .btn-linkedin {
-background-color:#0e76a8;
-opacity:0.9;
+  background-color:#0e76a8;
+  opacity:0.9;
 }
 .btn-github{
   background-color:#000000;
@@ -88,9 +90,11 @@ opacity:0.9;
 }
 
 
-.resume-heading .social-btn-holder{
+.social-btn-holder{
     padding:5px;
     margin:5px;
+    width:30px;
+    height:30px;
 }
 
 
