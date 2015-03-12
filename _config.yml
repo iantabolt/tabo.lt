@@ -3,8 +3,8 @@ title: Ian Tabolt's Blog
 email: ian@tabo.lt
 description: > # this means to ignore newlines until "baseurl:"
   TODO: Write description
-baseurl: "/home" # the subpath of your site, e.g. /blog/
-basehome: "/home"
+baseurl: "" # the subpath of your site, e.g. /blog/
+basehome: ""
 url: "http://tabo.lt" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  iantabolt
@@ -20,6 +20,6 @@ highlighter: pygments
 port: 4000
 
 nav_pages: [
-  {title: About, url: /home/#about},
-  {title: Contact, url: /home/#contact},
-  {title: Blog, url: /home/blog}]
+  {title: About, url: /#about},
+  {title: Contact, url: /#contact},
+  {title: Blog, url: /blog}]
