@@ -54,6 +54,10 @@ scala> println(greeting("Jekyll"))
 Hello Jekyll!
 ```
 
+I will keep the source for this post and the entire Jekyll project
+on GitHub here
+<a href="https://github.com/iantabolt/tabo.lt"><button type="button" class="btn btn-default">View On GitHub</button></a>
+
 -----------
 <dif id="foot1">
 [1] GitHub flavored markdown triple-backtick
