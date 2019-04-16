@@ -1,4 +1,4 @@
-# tabo.lt
+# iantabolt.com
 Source code for personal website, powered by [Jekyll](http://jekyllrb.com/)
 
 To run it:
